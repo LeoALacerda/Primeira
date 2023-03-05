@@ -19,5 +19,8 @@ class ViewController: UIViewController {
         print("oi")
     }
         // Criei um comentário 3!!!
+    func funcao2 () {
+        print("oi")
+    }
 }
 
