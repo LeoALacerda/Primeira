@@ -22,5 +22,6 @@ class ViewController: UIViewController {
     func funcao2 () {
         print("oi2")
     }
+    // criei um comentario agora na main
 }
 
